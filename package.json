@@ -1,0 +1,11 @@
+{
+  "name": "practise",
+  "version": "1.0.0",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.0.0",
+    "npm-git-install": "^0.3.0",
+    "popper.js": "1.12.9",
+    "jquery": "3.3.1"
+  }
+}
