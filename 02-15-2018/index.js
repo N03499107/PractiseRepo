@@ -23,12 +23,6 @@ const server = http.createServer(function (req, res) {
 server.listen(8080); //the server object listens on port 
 console.log("Listening on localhost");
 */
-var express = require('express')
-var app = express()
 
-// respond with "hello world" when a GET request is made to the homepage
-app.get('/', function (req, res) {
-  res.send('hello world')
-})
 
 app.listen(8080);

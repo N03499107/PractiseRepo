@@ -1,0 +1,16 @@
+Four Level of Dependencies
+    Dependencies
+    Peer Dependencies
+    Dev Dependencies
+    Global Dependencies
+
+    Npx run node package
+
+Patterns
+    commonJS-->require('')
+    AMD-->RequireJS
+    UMD-->Handles commonJS adn AMD both
+    ES5-implemented by all Browser
+    ES6-ES2015
+
+TypeScript
